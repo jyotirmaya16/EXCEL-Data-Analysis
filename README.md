@@ -1,6 +1,6 @@
 # EXCEL-Data-Analysis
 
-📊 Welcome to my Excel Data Analysis Project! 🚀
+📊 Welcome to my Excel Data Analysis Projects! 🚀
 
 ## About This Project
 
