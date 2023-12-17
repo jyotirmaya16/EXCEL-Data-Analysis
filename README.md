@@ -17,7 +17,7 @@ I've employed Excel's powerful features to transform raw data into meaningful in
 
 - **Excel Functions:** Leveraged a variety of Excel functions for data manipulation.
 - **Data Cleaning:** Employed Excel filters, sorting, and conditional formatting.
-- **Linear Regression** Linear regression: transforming data into insights with simplicity and precision.
+- **Linear Regression:** Linear regression: transforming data into insights with simplicity and precision.
 - **Visualization:** Created dynamic charts and dashboards for clear data representation.
 
 Let's make data speak through Excel! 📈✨
